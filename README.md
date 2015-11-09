@@ -25,23 +25,15 @@ The birds sound project will creating the new platform and let people understand
   10. Rooster.wav
 
 2. Data Analysis
-  1. BaldEagle
-  2. BlackCrows
-  3. BlackGull
-  4. Bluejay
-  5. Hawk
-  6. Merlin
-  7. Owl
-  8. Parots
-  9. Peacock
-  10. Rooster
+3. Research and Reference 
 
 ## Reports
-
 #### Week 1
 -
   * Collecting 10 different birds
-  * Analyze 10 different birds in Matlab 
+  * Initilize 10 different birds wav sound file in Matlab 
+  * Histrogram in Powerpoint
+  * Analyze the Result
 
 #### Week 2
 -
