@@ -9,17 +9,24 @@
 * Identifier the bird by using different testing set
 
 ## Plan
-**** SIX Weeks Project 
-**** Goal: Indentified 10 different birds 
+**** SIX Weeks Project **** Goal: Indentified 10 different birds 
 
-##### Data Collection
+1. Data Collection
 
-##### Data Analysis 
+2. Data Analysis 
 
-##### Reports
-Week1 
-Week2
-Week3
-Week4
-Week5
-Week6
+## Reports
+
+#### Week1
+-
+
+#### Week2
+-
+#### Week3
+-
+#### Week4
+-
+#### Week5
+-
+#### Week6
+-
