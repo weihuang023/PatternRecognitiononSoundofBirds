@@ -13,6 +13,16 @@ The birds sound project will creating the new platform and let people understand
 **** SIX Weeks Project **** Goal: Identified 10 different birds
 
 1. Data Collection
+  1. BaldEagle.wav
+  2. BlackCrows.wav
+  3. BlackGull.wav
+  4. Bluejay.wav
+  5. Hawk.wav
+  6. Merlin.wav
+  7. Owl.wav
+  8. Parots.wav
+  9. Peacock.wav
+  10. Rooster.wav
 
 2. Data Analysis
 
