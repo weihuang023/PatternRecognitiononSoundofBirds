@@ -25,6 +25,8 @@ The birds sound project will creating the new platform and let people understand
   10. Rooster.wav
 
 2. Data Analysis
+  figure, plot(BlackGull)
+  figure, plot(BlackGull)
 3. Research and Reference 
 
 ## Reports
