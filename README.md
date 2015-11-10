@@ -39,6 +39,8 @@ wavsoundVersion1.mat
   * figure, plot(Rooster)
 
 3. Research and Reference 
+  * Classification of Birds
+  * Uique sound of idenitification 
 
 ## Reports
 #### Week 1
