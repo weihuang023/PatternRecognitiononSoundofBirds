@@ -51,7 +51,6 @@ wavsoundVersion1.mat
 -
   * Collecting 10 different birds
   * Initilize 10 different birds wav sound file in Matlab 
-  * Histrogram in Powerpoint
   * Analyze the Result
 
 #### Week 2
