@@ -11,6 +11,8 @@ The birds sound project will creating the new platform and let people understand
 
 ## Plan
 **** SIX Weeks Project **** Goal: Identified 10 different birds
+-
+wavsoundVersion1.mat
 
 1. Data Collection
   1. BaldEagle.wav
@@ -25,8 +27,17 @@ The birds sound project will creating the new platform and let people understand
   10. Rooster.wav
 
 2. Data Analysis
-  figure, plot(BlackGull)
-  figure, plot(BlackGull)
+  * figure, plot(BaldEagle)
+  * figure, plot(BlackCrows)
+  * figure, plot(BlackGull)
+  * figure, plot(Bluejay)
+  * figure, plot(Hawk)
+  * figure, plot(Merlin)
+  * figure, plot(Owl)
+  * figure, plot(Parots)
+  * figure, plot(Peacock)
+  * figure, plot(Rooster)
+
 3. Research and Reference 
 
 ## Reports
