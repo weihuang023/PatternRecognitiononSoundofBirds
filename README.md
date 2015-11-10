@@ -11,15 +11,47 @@ The birds sound project will creating the new platform and let people understand
 
 ## Plan
 **** SIX Weeks Project **** Goal: Identified 10 different birds
+-
+wavsoundVersion1.mat
 
 1. Data Collection
+  1. BaldEagle.wav
+  2. BlackCrows.wav
+  3. BlackGull.wav
+  4. Bluejay.wav
+  5. Hawk.wav
+  6. Merlin.wav
+  7. Owl.wav
+  8. Parots.wav
+  9. Peacock.wav
+  10. Rooster.wav
 
 2. Data Analysis
+  * figure, plot(BaldEagle)
+  * figure, plot(BlackCrows)
+  * figure, plot(BlackGull)
+  * figure, plot(Bluejay)
+  * figure, plot(Hawk)
+  * figure, plot(Merlin)
+  * figure, plot(Owl)
+  * figure, plot(Parots)
+  * figure, plot(Peacock)
+  * figure, plot(Rooster)
+
+3. Research and Reference 
+  * Classification of Birds
+    1. The classification soundtrack of birds involves grouping of birds into categories according to physiological similarities, and more recently, by consideration of their genetic make-up. 
+    2. This classification is also known as taxonomy.There are a vast number of different bird species, and here we hope to provide you with interesting information on a number of these. We’ll help you with the different classifications of bird species, provide you with information on wild birds, pet birds and birds of prey, as well as your every day garden bird.
+  * Unique sounds of idenitify Birds
+    1. Bird ID Sound 
+    2. Divide different birds into group such as location, genuis, and character
 
 ## Reports
-
 #### Week 1
 -
+  * Collecting 10 different birds
+  * Initilize 10 different birds wav sound file in Matlab 
+  * Analyze the Result
 
 #### Week 2
 -
