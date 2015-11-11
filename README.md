@@ -44,7 +44,7 @@ wavsoundVersion1.mat
     2. This classification is also known as taxonomy, and there are a vast number of different bird species.
   * Unique sounds of idenitify Birds
     1. Bird ID Sound 
-    2. Divide different birds into group such as location, genuis, and character
+    2. Sounds divide different type of birds into group such as location, genuis, and character
 
 ## Reports
 #### Week 1
