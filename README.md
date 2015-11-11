@@ -41,7 +41,7 @@ wavsoundVersion1.mat
 3. Research and Reference 
   * Classification of Birds
     1. The classification soundtrack of birds involves grouping of birds into categories according to physiological similarities, and more recently, by consideration of their genetic make-up. 
-    2. This classification is also known as taxonomy.There are a vast number of different bird species, and here we hope to provide you with interesting information on a number of these. We’ll help you with the different classifications of bird species, provide you with information on wild birds, pet birds and birds of prey, as well as your every day garden bird.
+    2. This classification is also known as taxonomy, and there are a vast number of different bird species.
   * Unique sounds of idenitify Birds
     1. Bird ID Sound 
     2. Divide different birds into group such as location, genuis, and character
@@ -52,6 +52,7 @@ wavsoundVersion1.mat
   * Collecting 10 different birds
   * Initilize 10 different birds wav sound file in Matlab 
   * Analyze the Result
+  * Next week: same birds and setup the classification 
 
 #### Week 2
 -
