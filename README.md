@@ -56,11 +56,24 @@ wavsoundVersion1.mat
 
 #### Week 2
 -
+  * same birds and setup the classification
+  * vocal birds 
+  * Analyze the Result
 #### Week 3
 -
+  * signal process tool
+  * signal analysis application 
+  * Analyze the Result
 #### Week 4
 -
+  * filter data
+  * FFT, Angular and Magnitude 
+  * Analyze the Result
 #### Week 5
 -
+ * Cross Correlation 
+ * Analyze the Result
 #### Week 6
 -
+* Comparision 
+* Analyze the Result
