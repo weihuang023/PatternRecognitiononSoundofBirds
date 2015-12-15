@@ -1,0 +1,11 @@
+/* Any styles in this stylesheet will be added to the "styles" drop-down in the tinyMCE editor. */
+
+.left-image {float:left;margin:0.5em 1em 0 0;font-size:0.85em;color:rgb(54, 111, 30);text-align:center;}
+.right-image {float:right;margin:0.5em 0.5em 0 1em;font-size:0.9em;color:rgb(54, 111, 30);text-align:center;}
+
+.thumbnail-caption{width: 12em; height: 14em; float: left; margin: 1em 1em 3em 0; text-align: center;}
+
+.small-text {font-size:80%;}
+
+.clear-left-floats {clear:left;}
+.push-down {clear:left;}
